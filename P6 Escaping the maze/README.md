@@ -1,1 +1,1 @@
-*Escaping the maze*
+# Escaping the maze
