@@ -1,22 +1,24 @@
 
 # Black Jack - Capstone Project
 
-Welcome to Stone Paper Scissors! This program allows users to play the classic Stone Paper Scissors game against ThE cOmPuTeR. The program is written in Java and provides a simple command-line interface for user interaction.
+Welcome to Stone Paper Scissors! This Python project simulates the classic game of Black The program is written in Java and provides a simple command-line interface for user interaction.
 
 
 ## Features
 
-- User vs Computer gameplay
-- Randomized computer choices 
-- Score tracking for multiple rounds
-- User-friendly console interface
-- Time delays for better gaming experience
-- Ascii art for choice visualization
+- Realistic Gameplay with Accurate Rules
+- Random Card Dealing 
+- Dealer AI
+- Score Tracking 
+- User-friendly Console Interface
+- Time Delays for Better Gaming Experience
+- Ascii Art for Choice Visualization
 
 ## Requirements
 
-- JDK 8 or higher
-- Text editor or IDE for Java Development
+- Python 3.6 or higher
+- Terminal Emulator
+- Text editor or IDE 
   
 ## Installation
 
@@ -68,24 +70,23 @@ or download the ZIP file and extract it.
 
 ## Screenshots
 
-1. Greetings and Instructions:
-
-<img width="570" alt="Greeting and Instructions" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/e1f70a4e-1769-4dc2-b28b-aa2d37e506fd">
-
-2. Round 1:
-
-<img width="444" alt="Round 1" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/791fddda-6e3c-4fdc-bdc7-de342b707ab4">
-
-3. Round 2:
-
-<img width="389" alt="Round 2" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/84e76465-9b41-4190-b5f7-0cd86022213a">
-
-4. Round 3:
-
-<img width="396" alt="Round 3" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/05dd0750-88b9-4d11-a404-ae31f8f73d49">
+1. Greetings and Introduction:
 
 
-5. Score:
 
-<img width="468" alt="Score" src="https://github.com/RiyaBodke/Stone_Paper_Scissor_game/assets/114491248/c47cb9a2-afea-404b-80a0-d31cf63f6e70">
+2. User's Den:
+
+
+
+3. Choosing an Option:
+
+
+
+4. Dealer's Den:
+
+
+
+
+5. Results:
+
 
