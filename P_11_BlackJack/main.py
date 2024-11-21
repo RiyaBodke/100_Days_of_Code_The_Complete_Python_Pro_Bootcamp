@@ -1,41 +1,10 @@
 ############### Our Blackjack House Rules #####################
 
-## The deck is unlimited in size.
 ## The Jack/Queen/King all count as 10.
-## The the Ace can count as 11 or 1.
-## Use the following list as the deck of cards:
-## cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-## The cards in the list have equal probability of being drawn.
+## The Ace can count as 11 or 1.
+## The cards in the list have an equal probability of being drawn.
 ## Cards are not removed from the deck as they are drawn.
 ## The computer is the dealer.
-
-##################### Hints #####################
-
-#Hint 1: Go to this website and try out the Blackjack game:
-#   https://games.washingtonpost.com/games/blackjack/
-#Then try out the completed Blackjack project here:
-#   https://appbrewery.github.io/python-day11-demo/
-
-#Hint 2: Read this breakdown of program requirements:
-#   http://listmoz.com/view/6h34DJpvJBFVRlZfJvxF
-#Then try to create your own flowchart for the program.
-
-#Hint 3: Download and read this flow chart I've created:
-#   https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt
-
-#Hint 4: Create a deal_card() function that uses the List below to *return* a random card.
-#11 is the Ace.
-#cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-
-#Hint 5: Deal the user and computer 2 cards each using deal_card() and append().
-#user_cards = []
-#computer_cards = []
-
-#Hint 6: Create a function called calculate_score() that takes a List of cards as input
-#and returns the score.
-#Look up the sum() function to help you do this.
-
-#Hint 13: Create a function called compare() and pass in the user_score and computer_score. If the computer and user both have the same score, then it's a draw. If the computer has a blackjack (0), then the user loses. If the user has a blackjack (0), then the user wins. If the user_score is over 21, then the user loses. If the computer_score is over 21, then the computer loses. If none of the above, then the player with the highest score wins.
 
 from art import logo  # Importing logo from art.py
 import random  # Importing random module
@@ -48,7 +17,7 @@ cards = [
     "K♥", "Q♥", "A♣", "2♣", "3♣", "4♣", "5♣", "6♣", "7♣", "8♣", "9♣", "10♣",
     "J♣", "K♣", "Q♣", "A♦", "2♦", "3♦", "4♦", "5♦", "6♦", "7♦", "8♦", "9♦",
     "10♦", "J♦", "K♦", "Q♦"
-]  # List containg card deck
+]  # List containing card deck
 
 # Variables to track user and dealer score
 user_score = 0
@@ -56,7 +25,7 @@ dealer_score = 0
 
 
 def create_card(x):
-  # This functions takes list "cards" and generates ASCII style card template for visual representation
+  # This function takes list - "cards" and generates ASCII style card template for visual representation
   n = " "
   s = " "
   h = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "K", "Q"]
@@ -71,7 +40,7 @@ def create_card(x):
       break
   template = ""
 
-  #Adjusting unequal spacing
+  # Adjusting unequal spacing
   if n == "10":
     template = f"""
    _____
@@ -96,14 +65,14 @@ def create_card(x):
 
 
 def card(player):
-  # This function selects a random card for list-"cards" and assigns it to the player - either user or dealer
+  # This function selects a random card for list - "cards" and assigns it to the player - either the user or dealer
   c = random.choice(cards)
   player.append(c)
   return player
 
 
 def score(og_list, src):
-  # This function takes list of cards and calculates the score of the cards
+  # This function takes a list of cards and calculates the score of the cards
   k = []
   list = og_list.copy()
   for i in list:
@@ -139,8 +108,8 @@ def score(og_list, src):
 game = True
 
 
-def gplay():
-  #User Card allocation and printing
+def play():
+  # User Card allocation and printing
   print(logo)
   user = []
   card(user)
@@ -150,17 +119,18 @@ def gplay():
   print(create_card(user[0]))
   print(create_card(user[1]))
 
-  #Dealer Card allocation and printing
+  # Dealer Card allocation and printing
   dealer = []
   print("Dealer : ")
   card(dealer)
   print(create_card(dealer[0]))
 
   # User's blackjack
-  play = True
-  while (play):
+  user_den = True
+  while (user_den):
     if (score(user, user_score) == 21):
       print("BlackJack!")
+      user_den = False
       break
     else:
       print("Its your turn!\n\n")
@@ -169,13 +139,14 @@ def gplay():
       if (choice != 1 and choice != 2):
         print("Enter a valid choice")
       elif (choice == 2):
-        play = False
+        user_den = False
         break
       elif (choice == 1):
         os.system('clear')
         print(logo)
         card(user)
-        print("User : (Score =", score(user, user_score), ")")
+        print("User : ")
+        print("\nScore = ", score(user, user_score))
 
       for i in user:
         print(create_card(i))
@@ -195,7 +166,7 @@ def gplay():
 
   if(final_user_score > 21):
     print("User : ")
-    print("Score =", score(user, user_score))
+    print("\nScore =", score(user, user_score))
     for i in user:
       print(create_card(i))
     card(dealer)
@@ -213,7 +184,7 @@ def gplay():
     while (score(dealer, dealer_score) < 17):
       card(dealer)
       print("User : ")
-      print("Score =", score(user, user_score))
+      print("\nScore =", score(user, user_score))
       for i in user:
         print(create_card(i))
       print("\nDealer : ")
@@ -226,7 +197,7 @@ def gplay():
 
   print("And ...");time.sleep(0.1);print("Resuts ...");time.sleep(0.1);print("Are ...\n\n");time.sleep(0.1)
   print("User : ")
-  print("Score =", score(user, user_score))
+  print("\nScore =", score(user, user_score))
   for i in user:
     print(create_card(i))
 
@@ -255,7 +226,7 @@ def gplay():
       print("\nBusted! It's a tie!")
 
   another_game = input(
-      "\nEnter E to exit game or any other key to play another round\nUser : ")
+      "\nEnter E to exit the game or any other key to play another round\nUser : ")
 
   if (another_game == "E" or another_game == "e"):
     print("Thank you for playing!")
@@ -264,7 +235,7 @@ def gplay():
 
   else:
     os.system('clear')
-    gplay()
+    play()
 
 
 while (game):
@@ -277,4 +248,4 @@ while (game):
   print("Lets go...")
   time.sleep(1.8)
   os.system('clear')
-  gplay()
+  play()
