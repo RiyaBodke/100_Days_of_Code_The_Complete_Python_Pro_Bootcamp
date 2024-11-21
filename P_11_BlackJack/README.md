@@ -1,7 +1,7 @@
 
 # Black Jack - Capstone Project
 
-Welcome to Stone Paper Scissors! This Python project simulates the classic game of Black The program is written in Java and provides a simple command-line interface for user interaction.
+Welcome to BlackJack! This Python project simulates the classic game of Black The program provides a simple command-line interface for user interaction.
 
 
 ## Features
@@ -74,17 +74,21 @@ or download the ZIP file and extract it.
 
 <img width="696" alt="Screenshot 2024-11-21 at 6 32 41 PM" src="https://github.com/user-attachments/assets/a4cbbe96-0e50-4245-a342-9506ffa95d06">
 
+
 2. User's Den:
 
 <img width="694" alt="Screenshot 2024-11-21 at 6 54 06 PM" src="https://github.com/user-attachments/assets/71280c5a-a037-4fc6-9320-52de5ee08233">
+
 
 3. Choosing an Option:
 
 <img width="692" alt="Screenshot 2024-11-21 at 6 54 19 PM" src="https://github.com/user-attachments/assets/6d719e6a-685b-4f2c-8f2d-dde375e96957">
 
+
 4. Dealer's Den:
 
 <img width="693" alt="Screenshot 2024-11-21 at 7 00 14 PM" src="https://github.com/user-attachments/assets/3cf94fee-7416-4267-a898-0642529c4303">
+
 
 5. Results:
 
