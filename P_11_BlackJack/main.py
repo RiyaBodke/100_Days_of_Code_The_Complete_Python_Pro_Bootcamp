@@ -157,7 +157,7 @@ def play():
         print(create_card(i))
       if (score(user, user_score) >= 21):
 
-        play = False
+        user_den = False
         break
 
   final_user_score = score(user, user_score)
