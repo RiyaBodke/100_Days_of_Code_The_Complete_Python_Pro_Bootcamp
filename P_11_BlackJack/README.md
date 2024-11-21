@@ -72,21 +72,21 @@ or download the ZIP file and extract it.
 
 1. Greetings and Introduction:
 
-
+<img width="696" alt="Screenshot 2024-11-21 at 6 32 41 PM" src="https://github.com/user-attachments/assets/a4cbbe96-0e50-4245-a342-9506ffa95d06">
 
 2. User's Den:
 
-
+<img width="694" alt="Screenshot 2024-11-21 at 6 54 06 PM" src="https://github.com/user-attachments/assets/71280c5a-a037-4fc6-9320-52de5ee08233">
 
 3. Choosing an Option:
 
-
+<img width="692" alt="Screenshot 2024-11-21 at 6 54 19 PM" src="https://github.com/user-attachments/assets/6d719e6a-685b-4f2c-8f2d-dde375e96957">
 
 4. Dealer's Den:
 
-
-
+<img width="694" alt="Screenshot 2024-11-21 at 6 54 35 PM" src="https://github.com/user-attachments/assets/45a1bc2a-d527-4027-b3fa-a613975d0ee2">
 
 5. Results:
 
+<img width="692" alt="Screenshot 2024-11-21 at 6 54 55 PM" src="https://github.com/user-attachments/assets/7e578f82-9b28-4117-b372-1a1d00611690">
 
