@@ -84,7 +84,7 @@ or download the ZIP file and extract it.
 
 4. Dealer's Den:
 
-
+<img width="693" alt="Screenshot 2024-11-21 at 7 00 14 PM" src="https://github.com/user-attachments/assets/3cf94fee-7416-4267-a898-0642529c4303">
 
 5. Results:
 
