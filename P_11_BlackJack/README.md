@@ -25,7 +25,7 @@ Welcome to BlackJack! This Python project simulates the classic game of Black Th
 1. Download or clone the repository:
 
 ```sh
-  git clone https://github.com/RiyaBodke/Stone_Paper_Scissors
+  git clone https://github.com/RiyaBodke/100_Days_of_Code_The_Complete_Python_Pro_Bootcamp/P_11_BlackJack
 ```
 or download the ZIP file and extract it.
 
@@ -33,21 +33,13 @@ or download the ZIP file and extract it.
 2. Navigate to the Project Directory:
 
 ```sh
-  cd Stone_Paper_Scissors
+  cd P_11_BlackJack
 ```
 
-## Usage
-
-1. Compile the Program:
+3. Run the game:
 
 ```sh
-   javac Main.java
-```
-
-2. Run the Program:
-
-```sh
-   java Main
+   python main.py
 ```
 
 3. Follow the on-screen instructions:
@@ -62,9 +54,9 @@ or download the ZIP file and extract it.
 - Rock beats Scissors
 - Scissors beat Paper
 - Paper beats Rock
-- If both are the same, its a tie
+- If both are the same, it is a tie
 
-2. An updated score board will be displayed in the end
+2. An updated scoreboard will be displayed at the end
 
 3. Best of 3 rounds will be selected as the winner
 
