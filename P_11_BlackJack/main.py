@@ -243,6 +243,8 @@ while (game):
   #Initializing
   print(logo)
   time.sleep(1)
+  print("Welcome to the Golden Ace Casino!")
+  time.sleep(1)
   print("Ready for a game ?")
   time.sleep(1)
   print("Lets go...")
