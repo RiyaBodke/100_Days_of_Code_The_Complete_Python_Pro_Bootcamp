@@ -42,10 +42,9 @@ or download the ZIP file and extract it.
    python main.py
 ```
 
-3. Follow the on-screen instructions:
+4. Follow the on-screen instructions:
 
-- Choose an option from 1-3 to select your shape (stone, paper or scissor). Entering any number apart from 1 to 3 will result in an error and the program will prompt you to choose a valid option
-- Do the same for all three rounds
+- Choose an option from 1 or 2 to select your move (hit or stand). Entering any number apart from 1 to 3 will result in an error and the program will prompt you to choose a valid option
 
 ## Rules
 
