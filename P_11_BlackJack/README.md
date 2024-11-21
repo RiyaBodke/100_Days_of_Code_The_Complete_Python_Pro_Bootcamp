@@ -25,24 +25,29 @@ Welcome to BlackJack! This Python project simulates the classic game of Black Th
 1. Download or clone the repository:
 
 ```sh
-  git clone https://github.com/RiyaBodke/100_Days_of_Code_The_Complete_Python_Pro_Bootcamp/P_11_BlackJack
+  git clone https://github.com/RiyaBodke/100_Days_of_Code_The_Complete_Python_Pro_Bootcamp
 ```
 or download the ZIP file and extract it.
 
-
 2. Navigate to the Project Directory:
+
+```sh
+  cd 100_Days_of_Code_The_Complete_Python_Pro_Bootcamp
+```
+
+3. Navigate to the Project Sub-Directory:
 
 ```sh
   cd P_11_BlackJack
 ```
 
-3. Run the game:
+4. Run the game:
 
 ```sh
    python main.py
 ```
 
-4. Follow the on-screen instructions:
+5. Follow the on-screen instructions:
 
 - Choose an option from 1 or 2 to select your move (hit or stand). Entering any number apart from 1 to 3 will result in an error and the program will prompt you to choose a valid option
 
