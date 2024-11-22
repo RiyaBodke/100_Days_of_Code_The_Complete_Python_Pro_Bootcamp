@@ -3,8 +3,6 @@ from art import logo
 import random
 import time
 
-
-
 # Introduction 
 print(logo)
 time.sleep(1)
