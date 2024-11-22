@@ -59,16 +59,18 @@ or download the ZIP file and extract it.
 - Face cards (Jack, Queen, King): 10 points
 - Ace: 1 or 11 points (calculated as per the best outcome for the player)
 
-2. Each player and the dealer receive two cards. One of the dealer's cards is face-up and the other is revealed later.The player should choose in such a way that the value of their cards doesn't exceed 21.
+2. This game can be played by two players - the user and the dealer.
 
-3. User's Turn:
+3. Each player receives two cards. One of the dealer's cards is face-up and the other is revealed later. The score of face values of the total cards is tracked for both players.
+
+4. The players should choose in such a way that the value of their cards doesn't exceed 21.
+
+5. User's Turn:
 The user has two options -
 - Hit: Ask for another card.
 - Stand: Stop drawing cards.
 
-4. The dealer will have his turn after the player's turn.
-   
-5. A scoreboard is maintained thoroughly for both players.
+6. The dealer will have his turn after the player's turn.
 
 ## Screenshots
 
