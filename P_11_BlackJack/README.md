@@ -1,7 +1,7 @@
 
 # Black Jack - Capstone Project
 
-Welcome to BlackJack! This Python project simulates the classic game of Black The program provides a simple command-line interface for user interaction.
+Welcome to BlackJack! This Python project simulates the classic game of Black Jack! The program provides a simple command-line interface for user interaction.
 
 
 ## Features
