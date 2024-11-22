@@ -65,6 +65,7 @@ or download the ZIP file and extract it.
 The user has two options -
 - Hit: Ask for another card.
 - Stand: Stop drawing cards.
+
 The player should choose in such a way that the value doesn't exceed 21
 
 4. The dealer will have his turn after the player's turn.
