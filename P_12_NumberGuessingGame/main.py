@@ -14,7 +14,7 @@ print("I'm thinking of a number between 1 and 100.")
 time.sleep(1)
 
 # Generating answer
-answer = random.randint(0,100)
+answer = random.randint(1,100)
 attempts = 0
 
 # Deciding number of guess attempts
