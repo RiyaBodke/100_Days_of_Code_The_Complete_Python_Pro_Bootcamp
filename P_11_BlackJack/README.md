@@ -53,16 +53,23 @@ or download the ZIP file and extract it.
 
 ## Rules
 
-1. The rules are straightforward:
+1. The cards have the following values:
 
-- Rock beats Scissors
-- Scissors beat Paper
-- Paper beats Rock
-- If both are the same, it is a tie
+- Number cards (2-10): Face value
+- Face cards (Jack, Queen, King): 10 points
+- Ace: 1 or 11 points (calculated as per the best outcome for the player)
 
-2. An updated scoreboard will be displayed at the end
+2. Each player and the dealer receive two cards. One of the dealer's cards is face-up and the other is revealed later.
 
-3. Best of 3 rounds will be selected as the winner
+3. User's Turn:
+The user has two options -
+- Hit: Ask for another card.
+- Stand: Stop drawing cards.
+The player should choose in such a way that the value doesn't exceed 21
+
+4. The dealer will have his turn after the player's turn.
+   
+5. A scoreboard is maintained thoroughly for both players.
 
 ## Screenshots
 
