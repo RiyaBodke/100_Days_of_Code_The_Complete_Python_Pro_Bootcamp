@@ -29,10 +29,15 @@ def random_personality():
 
 def animation():
     """Function for animation effect before result"""
+    print(logo)
     print("Thinking .")
     sleep(1)
+    clear()
+    print(logo)
     print("Thinking ..")
     sleep(1)
+    clear()
+    print(logo)
     print("Thinking ...")
     sleep(1)
 
@@ -77,7 +82,6 @@ def game():
         if(guess == answer):
             score +=1
             clear()
-            print(logo)
             animation()
             clear()
             print(logo)
@@ -98,7 +102,6 @@ def game():
                 cheering = "Still a Champion!"
                 
             clear()
-            print(logo)
             animation()
             clear()
             print(logo)
