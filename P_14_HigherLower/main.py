@@ -48,6 +48,8 @@ def result(i,j):
         return "A"
     elif (j > i):
         return "B"
+    elif (i == j):
+        return "Same"
 
 def game():
     """Algorithm for game"""
@@ -107,6 +109,15 @@ def game():
             print(logo)
             print("\nSorry, that's a wrong answer! ",cheering,"\n\nFinal Score :", score)
             den = False
+            
+        elif(answer == "Same"):
+
+            score +=1
+            clear()
+            animation()
+            clear()
+            print(logo)
+            print("These two probably have same count! So you will get a point!\nCurrent Score :", score)
         
     
 
