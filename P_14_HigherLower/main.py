@@ -61,6 +61,7 @@ def game():
         
         a = random_personality()
         b = random_personality()
+
         
         print("\n\n\nCompare A : ", a[0])
         print(vs)
@@ -81,7 +82,17 @@ def game():
         
         answer = result(a[1], b[1])
         
-        if(guess == answer):
+        
+        if(answer == "Same"):
+
+            score +=1
+            clear()
+            animation()
+            clear()
+            print(logo)
+            print("These two probably have same count! So you will get a point!\nCurrent Score :", score)
+        
+        elif(guess == answer):
             score +=1
             clear()
             animation()
@@ -110,14 +121,6 @@ def game():
             print("\nSorry, that's a wrong answer! ",cheering,"\n\nFinal Score :", score)
             den = False
             
-        elif(answer == "Same"):
-
-            score +=1
-            clear()
-            animation()
-            clear()
-            print(logo)
-            print("These two probably have same count! So you will get a point!\nCurrent Score :", score)
         
     
 
