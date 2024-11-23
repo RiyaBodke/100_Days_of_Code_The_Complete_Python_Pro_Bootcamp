@@ -72,11 +72,11 @@ or download the ZIP file and extract it.
 
 <img width="863" alt="Screenshot 2024-11-24 at 1 55 53 AM" src="https://github.com/user-attachments/assets/2685db6d-5bc5-4ca2-93e9-dfca21a01cdf">
 
-4. 
+4. Animation
 
-<img width="591" alt="Screenshot 2024-11-24 at 1 57 34 AM" src="https://github.com/user-attachments/assets/26820b8a-a219-407a-afa5-c28f2d368828">
 
-5.
+
+5. Correct Guess
 
 <img width="864" alt="Screenshot 2024-11-24 at 1 56 12 AM" src="https://github.com/user-attachments/assets/84cd77a0-44bd-43ff-8118-a90195292ffa">
 
