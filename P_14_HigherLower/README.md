@@ -74,13 +74,13 @@ or download the ZIP file and extract it.
 
 4. Animation
 
-
+<img width="804" alt="Screenshot 2024-11-24 at 2 27 04 AM" src="https://github.com/user-attachments/assets/ab39e821-5a90-4d6a-80fd-1292cb6fd76a">
 
 5. Correct Guess
 
 <img width="864" alt="Screenshot 2024-11-24 at 1 56 12 AM" src="https://github.com/user-attachments/assets/84cd77a0-44bd-43ff-8118-a90195292ffa">
 
-6.Wrong Choice and Results:
+6. Wrong Choice and Results:
 
 <img width="855" alt="Screenshot 2024-11-24 at 1 57 46 AM" src="https://github.com/user-attachments/assets/c33fe0f7-32c9-4d31-9882-eeac8689069f">
 
