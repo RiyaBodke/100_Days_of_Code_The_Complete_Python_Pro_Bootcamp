@@ -1,17 +1,16 @@
 
 # Higher Lower 
 
-Welcome to Higher-Lower! This Python project simulates the classic game of Black Jack! The program provides a simple command-line interface for user interaction.
-
+Welcome to Higher-Lower! Test your knowledge of Instagram's biggest stars! In this addictive game, you'll be presented with two influencers and must guess which one has more followers. This is a perfect game for trivia lovers, instagram enthusiasts and fans of popular culture.
+Let's see how well you know your favourite influencers!
 
 ## Features
 
-- Realistic Gameplay with Accurate Rules
-- Random Card Dealing 
-- Dealer AI
+- Engaging Gameplay
+- Diverse Influencers 
 - Score Tracking 
 - User-friendly Console Interface
-- Time Delays for Better Gaming Experience
+- Time Delays and Animations for Better Gaming Experience
 - Ascii Art for Choice Visualization
 
 ## Requirements
@@ -38,7 +37,7 @@ or download the ZIP file and extract it.
 3. Navigate to the Project Sub-Directory:
 
 ```sh
-  cd P_11_BlackJack
+  cd P_14_HigherLower
 ```
 
 4. Run the game:
@@ -49,6 +48,15 @@ or download the ZIP file and extract it.
 
 ## Rules
 
+1. You'll be given information about two influencers.
+
+2. Decide who you think has more Instagram followers.
+
+3. Find out if you were right!
+
+4. Continue the challenge and see how many correct guesses you can make.
+
+5. The game ends when a wrong guess is made and the final score is displayed. 
 
 ## Screenshots
 
