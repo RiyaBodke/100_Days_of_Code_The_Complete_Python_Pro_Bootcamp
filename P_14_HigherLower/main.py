@@ -68,7 +68,7 @@ def game():
         guessing = True
 
         while(guessing):
-            guess = input("Who hast more instagram followers? Type A or B :")
+            guess = input("Who hast more instagram followers? Type A or B : ")
             if(guess == "A" or guess == "a" or guess == "A " or guess == "a "):
                 guessing = False
             elif(guess == "B" or guess == "b" or guess == "B " or guess == "b "):
@@ -110,8 +110,11 @@ def game():
         
     
 
+# Start of the program -
 
-print(logo)
+clear() # Clearing console screen
+
+print(logo) 
 sleep(1)
 
-game()
+game() #Executing the trivia game
