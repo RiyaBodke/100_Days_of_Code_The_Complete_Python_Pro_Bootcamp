@@ -4,6 +4,12 @@
 Welcome to Higher-Lower! Test your knowledge of Instagram's biggest stars! In this addictive game, you'll be presented with two influencers and must guess which one has more followers. This is a perfect game for trivia lovers, instagram enthusiasts and fans of popular culture.
 Let's see how well you know your favourite influencers!
 
+
+
+https://github.com/user-attachments/assets/e80edd6c-a61b-44af-ab87-4b20171e9402
+
+
+
 ## Features
 
 - Engaging Gameplay
