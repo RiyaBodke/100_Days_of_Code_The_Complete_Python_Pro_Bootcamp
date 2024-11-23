@@ -62,37 +62,26 @@ or download the ZIP file and extract it.
 
 1. Greetings and Introduction:
 
-<img width="853" alt="Screenshot 2024-11-24 at 1 54 56 AM" src="https://github.com/user-attachments/assets/a4d4e661-67d0-4189-9de8-5d1ef6b3bfcc">
+<img width="1173" alt="Screenshot 2024-11-24 at 2 39 11 AM" src="https://github.com/user-attachments/assets/0ebc0271-67e8-4d33-b833-1ab0cd9c10e2">
 
 2. Quiz Question:
 
-<img width="861" alt="Screenshot 2024-11-24 at 1 55 30 AM" src="https://github.com/user-attachments/assets/e7e9dd9a-22a4-4359-aec6-95e7528b668f">
+<img width="1026" alt="Screenshot 2024-11-24 at 2 42 24 AM" src="https://github.com/user-attachments/assets/3e8f1f02-3e02-4786-8f53-e7927f42c396">
 
 3. Choosing an Option:
 
-<img width="863" alt="Screenshot 2024-11-24 at 1 55 53 AM" src="https://github.com/user-attachments/assets/2685db6d-5bc5-4ca2-93e9-dfca21a01cdf">
+<img width="1021" alt="Screenshot 2024-11-24 at 2 42 40 AM" src="https://github.com/user-attachments/assets/d538efca-e62c-4d72-bc1a-285bc76f9b9b">
 
 4. Animation
 
-<img width="804" alt="Screenshot 2024-11-24 at 2 27 04 AM" src="https://github.com/user-attachments/assets/ab39e821-5a90-4d6a-80fd-1292cb6fd76a">
+<img width="1026" alt="Screenshot 2024-11-24 at 2 43 13 AM" src="https://github.com/user-attachments/assets/98cd3b48-0825-46af-9e7c-1f7437498d86">
 
 5. Correct Guess
 
-<img width="864" alt="Screenshot 2024-11-24 at 1 56 12 AM" src="https://github.com/user-attachments/assets/84cd77a0-44bd-43ff-8118-a90195292ffa">
+<img width="1026" alt="Screenshot 2024-11-24 at 2 43 33 AM" src="https://github.com/user-attachments/assets/da204656-5220-440d-b8db-09fac4184416">
 
 6. Wrong Choice and Results:
 
-<img width="855" alt="Screenshot 2024-11-24 at 1 57 46 AM" src="https://github.com/user-attachments/assets/c33fe0f7-32c9-4d31-9882-eeac8689069f">
-
-
-
-
-
-
-
-
-
-
-
+<img width="1023" alt="Screenshot 2024-11-24 at 2 43 45 AM" src="https://github.com/user-attachments/assets/d9f740ff-8c7a-4567-bcd9-888fb170356c">
 
 
