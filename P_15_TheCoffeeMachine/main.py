@@ -75,10 +75,10 @@ def money_calc(required):
 
 def espresso():
     
-    # Deducting used material from report
+    # Deducting used material from the report
     global water, coffee, money
     if(water < 50 or coffee < 18):
-        print("Sorry, there arent enough ingredients. Try after sometime. Here is your refund")
+        print("Sorry, there aren't enough ingredients. Try after sometime. Here is your refund")
         print("🪙🪙🪙🪙🪙")
         money -= 1.50
     else:
@@ -88,10 +88,10 @@ def espresso():
 
 def latte():
     
-    # Deducting used material from report
+    # Deducting used material from the report
     global water, coffee, milk, money
     if(water < 200 or coffee < 24 or milk < 150):
-        print("Sorry, there arent enough ingredients. Try after sometime. Here is your refund")
+        print("Sorry, there aren't enough ingredients. Try after sometime. Here is your refund")
         print("🪙🪙🪙🪙🪙")
         money -= 2.50
     else:
@@ -101,10 +101,10 @@ def latte():
         print("Here is your Latte ☕! Have a nice day!")
 
 def cappuccino():
-    # Deducting used material from report
+    # Deducting used material from the report
     global water, coffee, milk, money
     if(water < 250 or coffee < 24 or milk < 100):
-        print("Sorry, there arent enough ingredients. Try after sometime. Here is your refund")
+        print("Sorry, there aren't enough ingredients. Try after sometime. Here is your refund")
         print("🪙🪙🪙🪙🪙")
         money -= 2.50
     else:
@@ -118,7 +118,7 @@ def off():
     while(off):
         clear()
         print(logo)
-        t = input("The System is under maintainence. Please wait\n")
+        t = input("The System is under maintenance. Please wait\n")
         if(t == "on" or t== "on " or t=="On" or t == "On "):
             off = False
 
@@ -134,11 +134,19 @@ def refill():
     
     withdraw = input("Want to withdraw cash (Yes/No) : ")
     if(withdraw == "Yes" or withdraw == "yes"):
-        print("Total : ",money)
-        cash = int(input("Withdraw : "))
-        money -= cash
-        print("New total : ",money)
-        print("Refilled Ingredients and Withdrawed Cash!")
+        passcode = "ilovecoffee"
+        ask_passcode = input("Enter password : ")
+        if(password != ask_passcode):
+            print("Wrong Password! You cant withdraw money as you are not authorised!")
+        elif(password == ask_passcode):
+            print("Total : ",money)
+            cash = int(input("Withdraw : "))
+            while(cash > money):
+                print("There isn't sufficient money in the machine. Enter appropriate amount")
+                cash = int(input("Withdraw : "))
+            money -= cash
+            print("New total : ",money)
+            print("Refilled Ingredients and Withdrawed Cash!")
         report()
     else:
         print("Refilled Ingredients!")
