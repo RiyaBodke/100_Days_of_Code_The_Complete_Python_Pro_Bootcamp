@@ -4,3 +4,14 @@
 
 https://github.com/user-attachments/assets/03c22854-1b34-4067-9d2e-faa86c908d5b
 
+## commands to play game 
+
+1. espresso
+2. latte
+3. cappuccino
+4. report
+5. off
+6. refill
+7. close
+
+- password to withdraw cash from machine : ilovecoffee
