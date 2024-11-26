@@ -7,10 +7,11 @@ https://github.com/user-attachments/assets/03c22854-1b34-4067-9d2e-faa86c908d5b
 ## Features
 
 - Engaging Gameplay
-- Diverse Influencers 
-- Score Tracking 
+- Realtime Game Experience
+- Function to Refill Ingredients
+- Tracks Ingredients and Money
 - User-friendly Console Interface
-- Time Delays and Animations for Better Gaming Experience
+- Time Delays for Better Gaming Experience
 - Ascii Art for Choice Visualization
 
 ## Requirements
