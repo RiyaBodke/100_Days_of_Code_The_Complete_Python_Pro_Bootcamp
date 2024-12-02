@@ -2,7 +2,6 @@
 Udemy | Dr. Angela Yu
 
 Welcome to my 100 Days of Python project repository! 
-
 This repo contains all the code and projects completed as part of the 100 Days of Python course by Angela Yu on Udemy. It also includes some of my projects which I have created while learning Python concepts from this course. Hope they help you as well !
 
 ## Course Overview:
