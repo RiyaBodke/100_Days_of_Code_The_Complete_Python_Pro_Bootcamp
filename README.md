@@ -59,6 +59,6 @@ Following are the projects I built during this course :
 This repository is meant for educational purposes. If you would like to contribute, feel free to open an issue or submit a pull request. Suggestions and improvements are always welcome.
 
 ## Contact:
-If you have any questions about the course or the projects, feel free to open an issue or reach out to me at email@example.com.
+If you have any questions about the course or the projects, feel free to open an issue or reach out to me at rianbodke@gmail.com.
 
 Happy Coding and Learning!
