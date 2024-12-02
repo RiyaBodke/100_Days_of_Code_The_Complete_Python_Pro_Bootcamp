@@ -47,3 +47,18 @@ Following are the projects I built during this course :
 - P_16_OopCoffeeMachine
 - P_Calender
 - P_PrimeCompositeNumberChecker
+
+## Key Concepts Learned:
+
+- Python Basics: Variables, data types, functions, loops, conditionals.
+- Advanced Python: Object-Oriented Programming (OOP), working with APIs, web scraping, and databases.
+- Libraries & Frameworks: Flask, Tkinter, Matplotlib, Pandas, Requests, BeautifulSoup, and more.
+- Project Building: Creating apps, automating tasks, and building web services.
+
+## Contributing:
+This repository is meant for educational purposes. If you would like to contribute, feel free to open an issue or submit a pull request. Suggestions and improvements are always welcome.
+
+## Contact:
+If you have any questions about the course or the projects, feel free to open an issue or reach out to me at email@example.com.
+
+Happy Coding and Learning!
