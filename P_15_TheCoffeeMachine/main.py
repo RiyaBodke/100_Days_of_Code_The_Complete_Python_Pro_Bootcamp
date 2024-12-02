@@ -106,7 +106,7 @@ def cappuccino():
     if(water < 250 or coffee < 24 or milk < 100):
         print("Sorry, there aren't enough ingredients. Try after sometime. Here is your refund")
         print("🪙🪙🪙🪙🪙")
-        money -= 2.50
+        money -= 3.00
     else:
         water -= 250
         milk -= 100
