@@ -25,6 +25,13 @@ This course covers:
 
 And much more!
 
+## Key Concepts Learned:
+
+- Python Basics: Variables, data types, functions, loops, conditionals.
+- Advanced Python: Object-Oriented Programming (OOP), working with APIs, web scraping, and databases.
+- Libraries & Frameworks: Flask, Tkinter, Matplotlib, Pandas, Requests, BeautifulSoup, and more.
+- Project Building: Creating apps, automating tasks, and building web services.
+
 ## Project List :
 
 Following are the projects I built during this course : 
@@ -45,15 +52,9 @@ Following are the projects I built during this course :
 - P_14_HigherLower
 - P_15_TheCoffeeMachine
 - P_16_OopCoffeeMachine
+- P_17_QuizGame
 - P_Calender
 - P_PrimeCompositeNumberChecker
-
-## Key Concepts Learned:
-
-- Python Basics: Variables, data types, functions, loops, conditionals.
-- Advanced Python: Object-Oriented Programming (OOP), working with APIs, web scraping, and databases.
-- Libraries & Frameworks: Flask, Tkinter, Matplotlib, Pandas, Requests, BeautifulSoup, and more.
-- Project Building: Creating apps, automating tasks, and building web services.
 
 ## Contributing:
 This repository is meant for educational purposes. If you would like to contribute, feel free to open an issue or submit a pull request. Suggestions and improvements are always welcome.
