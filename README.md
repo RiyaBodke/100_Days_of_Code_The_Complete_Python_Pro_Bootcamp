@@ -53,6 +53,7 @@ Following are the projects I built during this course :
 - P_15_TheCoffeeMachine
 - P_16_OopCoffeeMachine
 - P_17_QuizGame
+- P_18_The_Hirst_Painting
 - P_Calender
 - P_PrimeCompositeNumberChecker
 
