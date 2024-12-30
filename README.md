@@ -56,6 +56,7 @@ Following are the projects I built during this course :
 - P_18_The_Hirst_Painting
 - P_Calender
 - P_PrimeCompositeNumberChecker
+- P_Turtle
 
 ## Contributing:
 This repository is meant for educational purposes. If you would like to contribute, feel free to open an issue or submit a pull request. Suggestions and improvements are always welcome.
