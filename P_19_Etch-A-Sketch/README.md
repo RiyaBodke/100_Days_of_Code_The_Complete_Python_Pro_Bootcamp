@@ -1,6 +1,8 @@
 # Etch-A-Sketch Game
 
-Welcome to The Coffee Machine, a fun and interactive text-based game where you take control of a bustling coffee shop! But it's not just about serving up delicious brews. You'll also need to manage your supplies, keep your customers happy, and maybe even refill the machine when the gremlins (we all know them) have been messing with the beans.
+Welcome to Etch-A-Sketch! Relive the classic drawing toy in Python! Use your keyboard to control the "knobs" and create digital masterpieces.
+
+![Etch-A-Sketch Demo](path/to/demo.gif or path/to/demo.png) ```
 
 ## Features
 
