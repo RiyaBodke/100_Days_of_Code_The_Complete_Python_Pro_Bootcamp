@@ -58,4 +58,3 @@ or download the ZIP file and extract it.
 7. close
 
 - password to withdraw cash from machine : ilovecoffee
-- 
