@@ -2,8 +2,6 @@
 
 Welcome to Etch-A-Sketch! Relive the classic drawing toy in Python! Use your keyboard to control the "knobs" and create digital masterpieces.
 
-![Etch-A-Sketch Demo](path/to/demo.gif or path/to/demo.png) ```
-
 ## Features
 
 - Engaging Gameplay
