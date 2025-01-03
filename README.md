@@ -56,6 +56,7 @@ Following are the projects I built during this course :
 - P_18_The_Hirst_Painting
 - P_19_Etch-A-Sketch
 - P_19_Turtle_Coordinate_System
+- P_20_21_The_Snake_Game
 - P_Calender
 - P_PrimeCompositeNumberChecker
 - P_Turtle
