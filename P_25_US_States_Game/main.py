@@ -64,10 +64,13 @@ if len(guessed_states) == 50:
 
 else:
     
-    missing_states = []                                 # List for Missing States
+    missing_states = [state for state in state_list if state not in guessed_states]    # List for Missing States (Using list comprehension)
     
-    for state in states_list:                           # Calculating Missing States
-        if state not in guessed_states:
-            missing_states.append(state)
+    # Alternate code for above line(without using list comprehension)
+    # missing = []
+    # for state in states_list:                           # Calculating Missing States
+    #     if state not in guessed_states:
+    #         missing.append(state)
+    # missing_states = pd.DataFrame(missing)
     
-    save_states(missing_states, "missing_states.csv")   # Saving Missing States in a csv files
+    save_states(missing_states, "missing_states.csv")   # Saving Missing States in a CSV files
