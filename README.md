@@ -59,6 +59,9 @@ Following are the projects I built during this course :
 - P_20_21_The_Snake_Game
 - P_22_Pong_game
 - P_23_Turtle_Crossing_Game
+- P_24_
+- P_25_
+- P_26_Nato_Alphabet
 - P_Calender
 - P_PrimeCompositeNumberChecker
 - P_Turtle
