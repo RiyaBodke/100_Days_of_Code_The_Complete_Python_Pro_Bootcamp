@@ -64,6 +64,7 @@ Following are the projects I built during this course :
 - P_25_US_States_Game
 - P_26_Nato_Alphabet
 - P_27_Miles_to_Km_Converter
+- P_28_Pomodoro_GUI_Application
 - P_Calender
 - P_PrimeCompositeNumberChecker
 - P_Turtle
